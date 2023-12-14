@@ -1,3 +1,4 @@
+[FONTE:](https://learn.microsoft.com/pt-br/dotnet/aspire/fundamentals/setup-tooling?tabs=dotnet-cli#install-net-aspire)
 # Primeiro Experimento com AspNet Aspire Starter
 
 ## Antes de executar
