@@ -50,14 +50,20 @@ $ dotnet new aspire
 
 > Para criar um projeto .NET Aspire com uma UI e API de amostra incluídas:
 
-
 ```shell
 $ dotnet new aspire-starter
 ```
 
 ### Projeto do repositório
 
+> Criação do projeto
+
 ```shell
 $ dotnet new aspire-starter --use-redis-cache --output AspNetAspireStarterFirstExp
+```
 
+> Execução do projeto
+
+```shell
+$ dotnet run --project AspNetAspireStarterFirstExp/AspNetAspireStarterFirstExp.AppHost
 ```
